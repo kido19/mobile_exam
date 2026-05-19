@@ -1,5 +1,12 @@
 # Daily Notes & Quote Android App
 
+## Group Members
+1. Tsedenia Worku (DBU1600032)
+2. Biruktawit Yalew (DBU1800090)
+3. Hayda W/yohannes (DBU1501256)
+4. Kidist Kinfe (DBU1501304)
+5. Eleni Grefie (DBU1501150)
+
 This Android application was developed for the Android Application Development Lab Exam. It allows users to manage personal notes and get daily motivational quotes.
 
 ## Features
